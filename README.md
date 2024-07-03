@@ -43,8 +43,8 @@ My Portfolio is a React application that serves as an online portfolio to showca
 
 To run this portfolio locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/WICKxDEV/WICKxDEV.github.io.git`
-2. Navigate to the project directory: `cd WICKxDEV.github.io`
+1. Clone the repository: `git clone https://github.com/WICKxDEV/Isuru-Wickramasinghe`
+2. Navigate to the project directory: `cd Isuru-Wickramasinghe`
 3. Install the dependencies: `npm install`
 4. Start the development server: `npm start`
 5. Open your browser and visit: `http://localhost:3000`
