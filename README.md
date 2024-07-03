@@ -4,7 +4,7 @@
 
 Welcome to my portfolio! This portfolio shows my skills, projects, and experiences as a web developer.
 
-### Live App: [WICKxDEV.github.io](https://WICKxDEV.github.io)<br><br>
+### Live App: [WICKxDEV.github.io](https://wickxdev.github.io/)<br><br>
 
 <img src="https://cdn.discordapp.com/attachments/1026764838464139335/1258052884470435850/fp.PNG?ex=6686a48d&is=6685530d&hm=91e6cb37fc784a17fb810479cc82de6eed621a3e09414982e0e1fd92c954c9cc&" alt="Home">
 
