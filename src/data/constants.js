@@ -1,7 +1,7 @@
 export const Bio = {
   name: "Isuru Wickramasinghe",
   roles: [
-    "Full Stack Web Developer",
+    "Full Stack Developer",
     "Mobile Developer",
     "Fivem Server Developer",
     "UI/UX Designer",
