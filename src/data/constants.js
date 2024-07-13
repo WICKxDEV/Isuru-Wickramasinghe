@@ -145,7 +145,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://cdn.discordapp.com/attachments/1026764838464139335/1258020621917622362/FiveM-Symbol.png?ex=66868681&is=66853501&hm=e471224235a47a0a1bd13e88ff1dcf74aee9ea7cd0349ece2544dd42506efe8f&",
+    img: "https://github.com/WICKxDEV/Isuru-Wickramasinghe/blob/main/src/images/FiveM-Symbol.png?raw=true",
     role: "Fivem Game Server Developer & Web Developer",
     company: "Freelancing",
     date: "March 2020 - Present",
@@ -164,7 +164,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://cdn.discordapp.com/attachments/1026764838464139335/1258022103672946849/3D_Steel_WE_Logo.jpg?ex=668687e2&is=66853662&hm=fd8ea045f6dda169e0d835db56ecc6d83b072fbbed6bb1136ca46c054cdce9de&",
+    img: "https://github.com/WICKxDEV/Isuru-Wickramasinghe/blob/main/src/images/3D%20Steel%20WE%20Logo.jpg?raw=true",
     role: "System operator and Maintainer",
     company: "Wickramasinghe Enterprises",
     date: "November 2018 - Present",
@@ -184,7 +184,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://cdn.discordapp.com/attachments/1026764838464139335/1258026139734118411/images_1.jpeg?ex=66868ba4&is=66853a24&hm=f83540479cd5f02fac3b6d353ba7aed9c347716a4f2706eea21b903f5bbbd9c1&",
+    img: "https://github.com/WICKxDEV/Isuru-Wickramasinghe/blob/main/src/images/images%20(1).jpeg?raw=true",
     school: "Sri Lanka Institute of Information Technology",
     date: "2022 - 2024",
     grade: "",
@@ -193,7 +193,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://cdn.discordapp.com/attachments/1026764838464139335/1258028994897510430/images_2.jpeg?ex=66868e4d&is=66853ccd&hm=c11434f54e8695d22394ea5b697293ba24dec9d976a460ff8019278024f11af6&",
+    img: "https://github.com/WICKxDEV/Isuru-Wickramasinghe/blob/main/src/images/images%20(2).jpeg?raw=true",
     school: "Ibbagamuwa Central College",
     date: "2012 - 2020",
     grade: "",
@@ -210,7 +210,7 @@ export const projects = [
     description:
       " The SRMS is designed to automate and manage the academic results of students in educational institutions. This SRMS outlines the purpose, scope, and functionality of the SRMS, aiming to ensure clarity and alignment among stakeholders on the system's requirements.The SRMS will enable educators and administrators to input, manage, and disseminate students' grades efficiently. Students and parents will access real-time academic results and performance reports through a secure, user-friendly interface.",
     image:
-      "https://cdn.discordapp.com/attachments/1026764838464139335/1258033023174316082/sliateweb.PNG?ex=6686920d&is=6685408d&hm=e4d992060e23839cec032fb004594e079989ea1a3a8543ff70b08f016369c96b&",
+      "https://github.com/WICKxDEV/Isuru-Wickramasinghe/blob/main/src/images/sliateweb.PNG?raw=true",
     tags: ["HTML", "CSS", "SCSS", "JavaScript", "PHP", "Hack", "Bootstrap"],
     category: "web app",
     github: "https://github.com/WICKxDEV/SLIATE-ATI-Kurunegala-Web",
@@ -231,7 +231,7 @@ export const projects = [
     description:
       "Developed a comprehensive web application tailored for service stations, encompassing a wide range of functionalities to streamline operations and enhance customer experience. The application includes the following key features:Package Management: Efficiently manage and customize service packages to meet diverse customer needs.Appointment Scheduling: Seamlessly handle appointment bookings with an intuitive interface, reducing wait times and improving service delivery.User Login System: Secure user authentication system allowing customers to create accounts, log in, and manage their profiles.Admin Dashboard: Centralized admin dashboard providing real-time insights and control over service station operations, including user management, package customization, and appointment oversight.Alert Generation: Automated alert system for important notifications, ensuring timely updates and reminders for both customers and staff.Messaging System: Integrated messaging functionality for effective communication between customers and the service station team, enhancing customer support and satisfaction.Additional Features: Various other utilities designed to optimize service station workflow, improve user engagement, and maintain high operational standards.This web application not only enhances the operational efficiency of service stations but also significantly improves the overall customer experience through its user-friendly design and robust functionality.",
     image:
-      "https://cdn.discordapp.com/attachments/1026764838464139335/1258040763921469440/luckyAuto.PNG?ex=66869943&is=668547c3&hm=8f60afe980dae2f7fa3dc7a4255310c7a63816ecf95a2319f6fa2efdfb192d53&",
+      "https://github.com/WICKxDEV/Isuru-Wickramasinghe/blob/main/src/images/luckyAuto.PNG?raw=true",
     tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MySQL"],
     category: "web app",
     github: "https://github.com/WICKxDEV/Lucky-Auto-Service-Web",
