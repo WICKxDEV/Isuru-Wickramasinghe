@@ -6,7 +6,7 @@ Welcome to my portfolio! This portfolio shows my skills, projects, and experienc
 
 ### Live App: [wickxdev.github.io/Isuru-Wickramasinghe/](https://wickxdev.github.io/Isuru-Wickramasinghe/)<br><br>
 
-<img src="https://cdn.discordapp.com/attachments/1026764838464139335/1258052884470435850/fp.PNG?ex=6686a48d&is=6685530d&hm=91e6cb37fc784a17fb810479cc82de6eed621a3e09414982e0e1fd92c954c9cc&" alt="Home">
+<img src="https://github.com/WICKxDEV/Isuru-Wickramasinghe/blob/main/src/images/fp.PNG?raw=true" alt="Home">
 
 ## Table of Contents
 
