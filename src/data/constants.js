@@ -273,7 +273,7 @@ export const projects = [
     description:
       "Developed using JavaScript and the GitHub API, this GitHub activity bot is designed to enhance your Discord server by providing real-time updates and notifications about GitHub repository activities. The bot seamlessly integrates with your Discord server, allowing users to stay informed about commits, pull requests, issues, and other repository events without leaving the platform. It features customizable notification settings, ensuring that users receive relevant updates tailored to their preferences. By bridging the gap between GitHub and Discord, this bot improves collaboration and keeps your development team engaged and informed.",
     image:
-      "https://private-user-images.githubusercontent.com/160169165/340761994-95d229ef-7ed4-4ed7-b26a-53c6c9046576.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEyNDEzNzQsIm5iZiI6MTcyMTI0MTA3NCwicGF0aCI6Ii8xNjAxNjkxNjUvMzQwNzYxOTk0LTk1ZDIyOWVmLTdlZDQtNGVkNy1iMjZhLTUzYzZjOTA0NjU3Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxN1QxODMxMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZDhjMjViYTE5Y2M1YzljOTdiOGM0M2I1NDAxMjFiYWJmNmU5ZGE4ZTE2ZWVhN2U0NGMwOWQwMGU4ZWViMWI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.owdSWigXwrRYSsNIYrTB4mnvr-6ux9E4HNlknWKQ5m8",
+      "https://github.com/WICKxDEV/discordbot-JS/blob/main/340761994-95d229ef-7ed4-4ed7-b26a-53c6c9046576.png?raw=true",
     tags: ["JavaScript", "API"],
     category: "BOTS",
     github: "https://github.com/WICKxDEV/discordbot-JS",
