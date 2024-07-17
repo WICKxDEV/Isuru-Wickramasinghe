@@ -10,7 +10,7 @@ export const Bio = {
   description:
     "I am an experienced designer and developer. I focus on crafting visually striking designs for websites, social media, and more. I have a strong foundation in coding, and I believe in collaboration, working closely with clients to seamlessly align design and technical solutions. Let's team up to turn your creative ideas into remarkable things. Feel free to contact me for work inquiries or collaborations!",
   github: "https://github.com/WICKxDEV",
-  /* resume: "", */
+  resume: "https://drive.google.com/file/d/1Dlcu5PgRp2aE6W7MqU4ztRtf199-3400/view", 
   linkedin: "https://www.linkedin.com/in/isuru-wickramasinghe-wickxdev/",
   twitter: "https://x.com/WICKxDEV",
   insta:
@@ -232,9 +232,51 @@ export const projects = [
       "Developed a comprehensive web application tailored for service stations, encompassing a wide range of functionalities to streamline operations and enhance customer experience. The application includes the following key features:Package Management: Efficiently manage and customize service packages to meet diverse customer needs.Appointment Scheduling: Seamlessly handle appointment bookings with an intuitive interface, reducing wait times and improving service delivery.User Login System: Secure user authentication system allowing customers to create accounts, log in, and manage their profiles.Admin Dashboard: Centralized admin dashboard providing real-time insights and control over service station operations, including user management, package customization, and appointment oversight.Alert Generation: Automated alert system for important notifications, ensuring timely updates and reminders for both customers and staff.Messaging System: Integrated messaging functionality for effective communication between customers and the service station team, enhancing customer support and satisfaction.Additional Features: Various other utilities designed to optimize service station workflow, improve user engagement, and maintain high operational standards.This web application not only enhances the operational efficiency of service stations but also significantly improves the overall customer experience through its user-friendly design and robust functionality.",
     image:
       "https://github.com/WICKxDEV/Isuru-Wickramasinghe/blob/main/src/images/luckyAuto.PNG?raw=true",
-    tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "MySQL"],
+    tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "Blade", "Laravel Framework", "MySQL"],
     category: "web app",
     github: "https://github.com/WICKxDEV/Lucky-Auto-Service-Web",
+    /* webapp: "", */
+    member: [
+      {
+        name: "Isuru Wickramasinghe",
+        img: "https://avatars.githubusercontent.com/u/160169165?v=4",
+        linkedin: "https://www.linkedin.com/in/isuru-wickramasinghe-WICKxDEV/",
+        github: "https://github.com/WICKxDEV",
+      },
+    ],
+  },
+  {
+    id: 2,
+    title: "Transport Management Service",
+    date: "Feb 2023 - Jun 2023",
+    description:
+      "This robust transport management application, developed using Visual Studio with C# and backed by a MySQL database, is designed to streamline and optimize the operations of transport companies. It offers comprehensive features for managing all aspects of company data, including vehicle information, driver details, route planning, and scheduling. The application provides an intuitive interface for easy data entry and retrieval, ensuring efficient data management. Additionally, it can generate detailed records and reports, offering insights and analytics to aid in decision-making and operational improvements. With a focus on accuracy and efficiency, this application is a valuable tool for enhancing the productivity and effectiveness of transport management processes.",
+    image:
+      "https://github.com/WICKxDEV/TMS-Updated/blob/master/Resources/Capture2.PNG?raw=true",
+    tags: ["C#", "html","MySQL"],
+    category: "android app",
+    github: "https://github.com/WICKxDEV/TMS-Updated",
+    /* webapp: "", */
+    member: [
+      {
+        name: "Isuru Wickramasinghe",
+        img: "https://avatars.githubusercontent.com/u/160169165?v=4",
+        linkedin: "https://www.linkedin.com/in/isuru-wickramasinghe-WICKxDEV/",
+        github: "https://github.com/WICKxDEV",
+      },
+    ],
+  },
+  {
+    id: 3,
+    title: "GitHub Activity Bot for Discord",
+    date: "May 2024 - Jun 2024",
+    description:
+      "Developed using JavaScript and the GitHub API, this GitHub activity bot is designed to enhance your Discord server by providing real-time updates and notifications about GitHub repository activities. The bot seamlessly integrates with your Discord server, allowing users to stay informed about commits, pull requests, issues, and other repository events without leaving the platform. It features customizable notification settings, ensuring that users receive relevant updates tailored to their preferences. By bridging the gap between GitHub and Discord, this bot improves collaboration and keeps your development team engaged and informed.",
+    image:
+      "https://private-user-images.githubusercontent.com/160169165/340761994-95d229ef-7ed4-4ed7-b26a-53c6c9046576.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjEyNDEzNzQsIm5iZiI6MTcyMTI0MTA3NCwicGF0aCI6Ii8xNjAxNjkxNjUvMzQwNzYxOTk0LTk1ZDIyOWVmLTdlZDQtNGVkNy1iMjZhLTUzYzZjOTA0NjU3Ni5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzE3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxN1QxODMxMTRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZDhjMjViYTE5Y2M1YzljOTdiOGM0M2I1NDAxMjFiYWJmNmU5ZGE4ZTE2ZWVhN2U0NGMwOWQwMGU4ZWViMWI0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.owdSWigXwrRYSsNIYrTB4mnvr-6ux9E4HNlknWKQ5m8",
+    tags: ["JavaScript", "API"],
+    category: "BOTS",
+    github: "https://github.com/WICKxDEV/discordbot-JS",
     /* webapp: "", */
     member: [
       {

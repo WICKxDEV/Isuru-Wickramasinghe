@@ -47,7 +47,7 @@ const Projects = ({ openModal, setOpenModal }) => {
               WEB
             </ToggleButton>
           )}
-          {/* <Divider />
+          <Divider />
           <Divider />
           {toggle === "BOTS" ? (
             <ToggleButton active value="BOTS" onClick={() => setToggle("BOTS")}>
@@ -65,16 +65,16 @@ const Projects = ({ openModal, setOpenModal }) => {
               value="android app"
               onClick={() => setToggle("android app")}
             >
-              FIVEM
+              APP
             </ToggleButton>
           ) : (
             <ToggleButton
               value="android app"
               onClick={() => setToggle("android app")}
             >
-              FIVEM
+              APP
             </ToggleButton>
-          )} */}
+          )} 
         </ToggleButtonGroup>
         <CardContainer>
           {toggle === "all" &&
