@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Isuru-Wickramasinghe/static/css/main.cdcc6d03.css",
-    "main.js": "/Isuru-Wickramasinghe/static/js/main.97de487c.js",
+    "main.js": "/Isuru-Wickramasinghe/static/js/main.57fcbacf.js",
     "static/media/Profile.jpg": "/Isuru-Wickramasinghe/static/media/Profile.d85af2fd1d9b5e7bdb3e.jpg",
     "index.html": "/Isuru-Wickramasinghe/index.html",
     "main.cdcc6d03.css.map": "/Isuru-Wickramasinghe/static/css/main.cdcc6d03.css.map",
-    "main.97de487c.js.map": "/Isuru-Wickramasinghe/static/js/main.97de487c.js.map"
+    "main.57fcbacf.js.map": "/Isuru-Wickramasinghe/static/js/main.57fcbacf.js.map"
   },
   "entrypoints": [
     "static/css/main.cdcc6d03.css",
-    "static/js/main.97de487c.js"
+    "static/js/main.57fcbacf.js"
   ]
 }

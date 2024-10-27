@@ -10,7 +10,8 @@ export const Bio = {
   description:
     "I am an experienced designer and developer. I focus on crafting visually striking designs for websites, social media, and more. I have a strong foundation in coding, and I believe in collaboration, working closely with clients to seamlessly align design and technical solutions. Let's team up to turn your creative ideas into remarkable things. Feel free to contact me for work inquiries or collaborations!",
   github: "https://github.com/WICKxDEV",
-  resume: "https://drive.google.com/file/d/1Dlcu5PgRp2aE6W7MqU4ztRtf199-3400/view", 
+  resume:
+    "https://drive.google.com/file/d/1Dlcu5PgRp2aE6W7MqU4ztRtf199-3400/view",
   linkedin: "https://www.linkedin.com/in/isuru-wickramasinghe-wickxdev/",
   twitter: "https://x.com/WICKxDEV",
   insta:
@@ -205,6 +206,48 @@ export const education = [
 export const projects = [
   {
     id: 1,
+    title: "VMS Web Application",
+    date: "September 2024 ",
+    description:
+      " The VMS is designed to automate and streamline the management of vehicles, drivers, and maintenance schedules for businesses. It provides a comprehensive solution for tracking vehicle usage, managing driver assignments, scheduling regular maintenance, and handling hire details efficiently.",
+    image:
+      "https://github.com/WICKxDEV/Isuru-Wickramasinghe/blob/main/src/images/WE-VMS-min.PNG?raw=true",
+    tags: ["HTML", "CSS", "JavaScript", "PHP", "Hack", "Bootstrap"],
+    category: "web app",
+    github: "",
+    /* webapp: "", */
+    member: [
+      {
+        name: "Isuru Wickramasinghe",
+        img: "https://avatars.githubusercontent.com/u/160169165?v=4",
+        linkedin: "https://www.linkedin.com/in/isuru-wickramasinghe-WICKxDEV/",
+        github: "https://github.com/WICKxDEV",
+      },
+    ],
+  },
+  {
+    id: 2,
+    title: "Serendib journeys",
+    date: "August 2024",
+    description:
+      " Serendib Journeys offers all-inclusive tour guidance across Sri Lanka, providing transportation, accommodations, and curated experiences to showcase the country's most captivating destinations.",
+    image:
+      "https://github.com/WICKxDEV/Isuru-Wickramasinghe/blob/main/src/images/serendibpages-min.jpg?raw=true",
+    tags: ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    category: "web app",
+    github: "https://github.com/WICKxDEV/SLIATE-ATI-Kurunegala-Web",
+    /* webapp: "", */
+    member: [
+      {
+        name: "Isuru Wickramasinghe",
+        img: "https://avatars.githubusercontent.com/u/160169165?v=4",
+        linkedin: "https://www.linkedin.com/in/isuru-wickramasinghe-WICKxDEV/",
+        github: "https://github.com/WICKxDEV",
+      },
+    ],
+  },
+  {
+    id: 3,
     title: "ATI Kurunegala",
     date: "Jun 2023 - April 2024",
     description:
@@ -225,14 +268,23 @@ export const projects = [
     ],
   },
   {
-    id: 0,
+    id: 4,
     title: "Lucky Auto Service",
     date: "Feb 2023 - Oct 2023",
     description:
       "Developed a comprehensive web application tailored for service stations, encompassing a wide range of functionalities to streamline operations and enhance customer experience. The application includes the following key features:Package Management: Efficiently manage and customize service packages to meet diverse customer needs.Appointment Scheduling: Seamlessly handle appointment bookings with an intuitive interface, reducing wait times and improving service delivery.User Login System: Secure user authentication system allowing customers to create accounts, log in, and manage their profiles.Admin Dashboard: Centralized admin dashboard providing real-time insights and control over service station operations, including user management, package customization, and appointment oversight.Alert Generation: Automated alert system for important notifications, ensuring timely updates and reminders for both customers and staff.Messaging System: Integrated messaging functionality for effective communication between customers and the service station team, enhancing customer support and satisfaction.Additional Features: Various other utilities designed to optimize service station workflow, improve user engagement, and maintain high operational standards.This web application not only enhances the operational efficiency of service stations but also significantly improves the overall customer experience through its user-friendly design and robust functionality.",
     image:
       "https://github.com/WICKxDEV/Isuru-Wickramasinghe/blob/main/src/images/luckyAuto.PNG?raw=true",
-    tags: ["HTML", "CSS", "JavaScript", "Bootstrap", "PHP", "Blade", "Laravel Framework", "MySQL"],
+    tags: [
+      "HTML",
+      "CSS",
+      "JavaScript",
+      "Bootstrap",
+      "PHP",
+      "Blade",
+      "Laravel Framework",
+      "MySQL",
+    ],
     category: "web app",
     github: "https://github.com/WICKxDEV/Lucky-Auto-Service-Web",
     /* webapp: "", */
@@ -246,14 +298,14 @@ export const projects = [
     ],
   },
   {
-    id: 2,
+    id: 5,
     title: "Transport Management Service",
     date: "Feb 2023 - Jun 2023",
     description:
       "This robust transport management application, developed using Visual Studio with C# and backed by a MySQL database, is designed to streamline and optimize the operations of transport companies. It offers comprehensive features for managing all aspects of company data, including vehicle information, driver details, route planning, and scheduling. The application provides an intuitive interface for easy data entry and retrieval, ensuring efficient data management. Additionally, it can generate detailed records and reports, offering insights and analytics to aid in decision-making and operational improvements. With a focus on accuracy and efficiency, this application is a valuable tool for enhancing the productivity and effectiveness of transport management processes.",
     image:
       "https://github.com/WICKxDEV/TMS-Updated/blob/master/Resources/Capture2.PNG?raw=true",
-    tags: ["C#", "html","MySQL"],
+    tags: ["C#", "html", "MySQL"],
     category: "android app",
     github: "https://github.com/WICKxDEV/TMS-Updated",
     /* webapp: "", */
@@ -267,7 +319,7 @@ export const projects = [
     ],
   },
   {
-    id: 3,
+    id: 6,
     title: "GitHub Activity Bot for Discord",
     date: "May 2024 - Jun 2024",
     description:
